@@ -1,9 +1,9 @@
 ### LIST OF ARDUINO UNO PROJECTS :
 This repo contains simple codes for arduino uno.
-## MATERIALS : 
+#### MATERIALS : 
 - ARDUINO UNO
 - ARDUINO STUDIO
 - PROTEUS ISIS SIMULATOR
 
-### NOTES : 
+#### NOTES : 
 Codes were testes and verified in simulation as well as in real hardware.
