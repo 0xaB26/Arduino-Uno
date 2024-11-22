@@ -12,7 +12,7 @@ unsigned char control[] = {11, 12};
 unsigned char button = 2;
 unsigned char value[] = {0x01, 0x4F, 0x12, 0x06, 0x4C, 0x24, 0x20, 0x0F, 0x00, 0x04};
 unsigned char digits[SIZE] = {0};
-unsigned char time = 50;
+unsigned char time = 20;
 
 void extractDigits(void);
 void function(void);
